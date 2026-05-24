@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140§ion=header&text=Ajay%20Anandan&fontSize=32&fontColor=ffffff&desc=Full-stack%20dev%20%7C%20Security%20researcher%20%7C%20Tamil%20Nadu&descSize=14&descAlignY=72&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140§ion=header&text=Ajay%20Anandan&fontSize=32&fontColor=ffffff&desc=Full-stack%20dev%20%7C%20Security%20researcher%20%7C%20Tamil%20Nadu&descSize=8&descAlignY=72&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=500&lines=Building+TN-Pulse+%F0%9F%97%B3%EF%B8%8F+%E2%80%94+civic+tech+for+Tamil+Nadu;Security+researcher+%7C+AES+%7C+Flask+%7C+C2+frameworks;React+%2B+Node.js+%2B+Python)](https://git.io/typing-svg)
 
